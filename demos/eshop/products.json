@@ -7,7 +7,7 @@
 		},
 		{
 			"name": "I Believe In Broccoli",
-			"amount": 10,
+			"amount": 20,
 			"image": "http://theworstthingsforsale.com/wp-content/uploads/2018/05/i-believe-in-broccoli.jpg"
 		},
 		{
@@ -24,6 +24,7 @@
 			"name": "Wearable Chair",
 			"amount": 989,
 			"image": "http://theworstthingsforsale.com/wp-content/uploads/2018/05/wearable-chair.jpg"
-		}
+		},
+		{}
 	]
 }
